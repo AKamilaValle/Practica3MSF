@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Ana K.
+    family-names: Valle Z. Flores
+    email: l22211769@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/AKamilaValle/Practica3MSF'
+keywords:
+  - Circuito RC
+  - Controlador PI
+  - Sistema musculoesquelético
+  - Modelo matemático
+  - Simulación numérica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-29'
